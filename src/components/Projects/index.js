@@ -20,8 +20,8 @@ const Projects = ({ openModal, setOpenModal }) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android
-          apps. Here are some of my projects.
+          I have worked on a wide range of projects.Here are some of my
+          projects.
         </Desc>
         <ToggleButtonGroup>
           {toggle === "all" ? (
@@ -47,8 +47,8 @@ const Projects = ({ openModal, setOpenModal }) => {
               WEB APP'S
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "android app" ? (
+          {/* <Divider /> */}
+          {/* {toggle === "android app" ? (
             <ToggleButton
               active
               value="android app"
@@ -64,23 +64,23 @@ const Projects = ({ openModal, setOpenModal }) => {
               ANDROID APP'S
             </ToggleButton>
           )}
-          <Divider />
-          {toggle === "machine learning" ? (
+          <Divider /> */}
+          {/* {toggle === "MongoDB-Integrated" ? (
             <ToggleButton
               active
-              value="machine learning"
-              onClick={() => setToggle("machine learning")}
+              value="MongoDB-Integrated "
+              onClick={() => setToggle("MongoDB Integrated")}
             >
-              MACHINE LEARNING
+              MongoDB Integrated
             </ToggleButton>
           ) : (
             <ToggleButton
-              value="machine learning"
-              onClick={() => setToggle("machine learning")}
+              value="MongoDB-Integrated"
+              onClick={() => setToggle("MongoDB Integrated")}
             >
-              MACHINE LEARNING
+              MongoDB Integrated
             </ToggleButton>
-          )}
+          )} */}
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
