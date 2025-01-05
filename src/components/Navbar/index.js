@@ -76,14 +76,14 @@ const Navbar = () => {
             >
               Skills
             </MobileLink>
-            <MobileLink
+            {/* <MobileLink
               href="#experience"
               onClick={() => {
                 setIsOpen(!isOpen);
               }}
             >
               Experience
-            </MobileLink>
+            </MobileLink> */}
             <MobileLink
               href="#projects"
               onClick={() => {
@@ -99,6 +99,14 @@ const Navbar = () => {
               }}
             >
               Education
+            </MobileLink>
+            <MobileLink
+              href="#contact"
+              onClick={() => {
+                setIsOpen(!isOpen);
+              }}
+            >
+              Contact
             </MobileLink>
             <GitHubButton
               style={{
