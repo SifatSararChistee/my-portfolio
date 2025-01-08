@@ -6,7 +6,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Images:
 
-<img width="450px;" src="https://i.ibb.co.com/59XxLFs/portfolio.png"/>
+<img src="https://i.ibb.co.com/59XxLFs/portfolio.png"/>
 
 ## Table of Contents
 
