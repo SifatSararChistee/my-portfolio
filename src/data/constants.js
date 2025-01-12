@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SifatSararChistee",
   resume:
-    "https://drive.google.com/file/d/1_y-EF5XMjHhD-wGI_NBFHcbYQnLHq7Wf/view?usp=sharing",
+    "https://drive.google.com/file/d/1hnHZzkDFgcKpIr5x_Ro8QetSdRzLT7zW/view",
   linkedin: "https://www.linkedin.com/in/sifatsararchistee/",
   twitter: "https://x.com/sifat_sarar",
   insta: "https://www.instagram.com/sifatsararchistee/",
